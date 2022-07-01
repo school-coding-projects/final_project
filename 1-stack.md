@@ -18,9 +18,9 @@ When a stack is properly implemented, the O notation to append and delete elemen
 As the picture below illustrates, when you put an item on top of a stack it is called 'push' and removing is called 'pop'.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images\Stack_img.PNG">
-  <source media="(prefers-color-scheme: light)" srcset="Images\Stack_img.PNG">
-  <img alt="Shows an illustration of a Stack" src="Images\Stack_img.PNG">
+    <source media="(prefers-color-scheme: dark)" srcset="Stack_img.PNG">
+  <source media="(prefers-color-scheme: light)" srcset="Stack_img.PNG">
+  <img alt="Shows an illustration of a Stack" src="Stack_img.PNG">
 </picture>
 
 
@@ -191,9 +191,9 @@ print(stack.is_empty())
 Here is an illustration of what the `push` and `pop` look like on the stack.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images\stack_structure.PNG">
-    <source media="(prefers-color-scheme: light)" srcset="Images\stack_structure.PNG">
-    <img alt="Illustration of a Stack" src="Images\stack_structure.PNG">
+    <source media="(prefers-color-scheme: dark)" srcset="stack_structure.PNG">
+    <source media="(prefers-color-scheme: light)" srcset="stack_structure.PNG">
+    <img alt="Illustration of a Stack" src="stack_structure.PNG">
 </picture>
 
 
