@@ -156,9 +156,9 @@ print(A & B)
 As illustrated in this image, the yellow circle is A and the blue circle is B. The middle where the circles overlap is green because that is the _`intersection()`_ or overlap where set A and B contain the same numbers and create a new set.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images\Set_img.png">
-  <source media="(prefers-color-scheme: light)" srcset="Images\Set_img.png">
-  <img alt="Shows 2 circles overlapping" src="Images\Set_img.png">
+    <source media="(prefers-color-scheme: dark)" srcset="Set_img.png">
+  <source media="(prefers-color-scheme: light)" srcset="Set_img.png">
+  <img alt="Shows 2 circles overlapping" src="Set_img.png">
 </picture>
 
 
