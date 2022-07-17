@@ -29,9 +29,9 @@ The node connected to the _Parent_ node is a _`Child`_ node.
 A _**Binary Tree**_ has links to no more than two other nodes. The top node is called the `root` node. A node that has connected nodes is called a `parent` node. The nodes connected to the `parent` node are called `child` nodes. The nodes to the left and right of the `parent` node form a `subtree`. Nodes that connect to no other nodes are called `leaf` nodes. 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Images\Binary_tree.png">
-    <source media="(prefers-color-scheme: light)" srcset="Images\Binary_tree.png">
-    <img alt="Binary Tree" src="Images\Binary_tree.png">
+    <source media="(prefers-color-scheme: dark)" srcset="Binary_tree.png">
+    <source media="(prefers-color-scheme: light)" srcset="Binary_tree.png">
+    <img alt="Binary Tree" src="Binary_tree.png">
 </picture>
 
 
