@@ -379,6 +379,6 @@ if __name__=='__main__':
 
 
 
-[Deleting Node Solution](python-files\binary_tree_solution.py)
+[Deleting Node Solution](binary_tree_solution.py)
 
 [Back to Welcome page](welcome.md)
